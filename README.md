@@ -6,11 +6,15 @@ Present code with style using [spectacle](https://github.com/FormidableLabs/spec
 
 > _Dude, you just changed the code presentation game_ – [@kenwheeler](https://github.com/kenwheeler)
 
+## Disclaimer
+
+This is a fork of the original `spectacle-code-slide` project, done just to be able to require ir in my `package.json` files directly from here since the version that's on [npmjs.com](https://npmjs.com) does not support `Spectacle 2.0`. This one does.
+
 ## Install
 
 ```
 $ npm install --save spectacle
-$ npm install --save spectacle-code-slide
+$ npm install --save uesteibar/spectacle-code-slide
 ```
 
 ## Usage
